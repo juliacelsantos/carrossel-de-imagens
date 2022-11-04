@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:
+rgb(204, 255, 255);
+}
+  h1 {
+ text-align:center;
+}
+#centro{
+height: 700px;
+  width: 700px;
+  margin:auto ;
+  border: solid 1px;
+  color: black;
+}
+#seta{
+  text-align: center;
+}
